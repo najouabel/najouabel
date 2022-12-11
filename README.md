@@ -1,4 +1,4 @@
-[![MasterHead](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
+<img align="right" alt="coding" width="800" height="400" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif">
 <h1 align="center">Hi 👋, I'm BELHAJ NAJOUA</h1>
 <h3 align="center">A Passionate Full Stack Developer from Morocco</h3>
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">

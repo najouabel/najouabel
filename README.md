@@ -1,7 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm BELHAJ NAJOUA</h1>
 <h3 align="center">A Passionate Full Stack Developer from Morocco</h3>
-<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 ```javascript

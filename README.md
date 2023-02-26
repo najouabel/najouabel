@@ -6,7 +6,6 @@
 ```javascript
 const najoua = {
   name: "najoua",
-  age: 21,
   pronouns: "she/her",
   school: "YouCode, Safi",
   interests: ["music", "movies", "sports", "travel"],

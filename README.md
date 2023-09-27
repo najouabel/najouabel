@@ -1,25 +1,22 @@
 
-<h1 align="center">Hi 👋, I'm BELHAJ NAJOUA</h1>
-<h3 align="center">A Passionate Full Stack Developer from Morocco</h3>
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
-```javascript
-const najoua = {
-  name: "najoua",
-  pronouns: "she/her",
-  school: "YouCode, Safi",
-  interests: ["music", "movies", "sports", "travel"],
-  stack: "Full stack web developer",
-  address: {
-    city: "Safi",
-    country: "Morocco",
-  },
-  code: ["javascript", "PHP", "HTML", "CSS"],
-  frameworks: ["Vue", "Larvel", "bootstrap"],
-  architecture: ["MVC"],
-  tools: ["Git", "Github", "VSCode", "Figma"],
-  languages: ["English", "Arabic", "French"],
-};
-```
+### Hi there 👋 I'm BELHAJ NAJOUA
+- 🔭 I’m a student at YouCode Safi
+<br>
+🌱 I’m currently learning Web developpement
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em> Thanks for visiting :heart: </em>
+
+<!--
+
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
